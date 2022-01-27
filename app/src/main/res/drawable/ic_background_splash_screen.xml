@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:width="360dp"
+      android:height="640dp"
+      android:viewportWidth="360"
+      android:viewportHeight="640"
+      android:drawable="@drawable/ic_background">
+    <shape android:shape="rectangle"
+        android:width="360dp"
+        android:height="640dp"
+        android:viewportWidth="360"
+        android:viewportHeight="640">
+      <solid android:color="#ff8898A4" />
+    </shape>
+  </item>
+  <item android:width="170dp"
+      android:height="150dp"
+      android:top="150dp"
+      android:left="110dp">
+    <bitmap
+        android:src="@drawable/bayong_app_logo_1"
+        android:gravity="fill"/>
+  </item>
+</layer-list>
