@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dev/mobile/bayongapp/app/src/main/res/drawable/ic_background.xml" value="0.3255" />
         <entry key="..\:/Dev/mobile/bayongapp/app/src/main/res/drawable/ic_background_splash_screen.xml" value="0.2395" />
         <entry key="..\:/Dev/mobile/bayongapp/app/src/main/res/drawable/ic_loading.xml" value="0.218" />
         <entry key="..\:/Dev/mobile/bayongapp/app/src/main/res/layout/activity_main.xml" value="0.25226449275362317" />

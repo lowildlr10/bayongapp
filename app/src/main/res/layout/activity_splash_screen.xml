@@ -9,12 +9,15 @@
     android:layout_height="match_parent">
 
     <ImageView
-        android:id="@+id/background"
+        android:id="@+id/splashLogo"
         android:layout_width="wrap_content"
         android:layout_height="500dp"
         android:layout_marginStart="10dp"
-        android:layout_marginTop="72dp"
+        android:layout_marginTop="4dp"
         android:layout_marginEnd="10dp"
+        android:contentDescription="@string/bayongapp_logo"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
         android:src="@drawable/bayongapp_logo_main"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -24,11 +27,11 @@
         android:id="@+id/progBarSplashScrn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="36dp"
+        android:layout_marginTop="12dp"
         android:indeterminate="true"
+        android:theme="@style/Theme.Material3.Dark"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/background"
-        android:theme="@style/Theme.Material3.Dark" />
+        app:layout_constraintTop_toBottomOf="@+id/splashLogo" />
 </androidx.constraintlayout.widget.ConstraintLayout>
