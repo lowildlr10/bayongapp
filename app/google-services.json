@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278677739195",
+    "project_id": "bayongapp-1dec8",
+    "storage_bucket": "bayongapp-1dec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278677739195:android:b9f1c24be885fd5a15fb9e",
+        "android_client_info": {
+          "package_name": "com.example.bayongapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278677739195-k2si3jj7kd1d3835iot4jj45tan6rk2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNx5PKvxi1pFHHLCFnJLT158vzK0Wu9AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278677739195-k2si3jj7kd1d3835iot4jj45tan6rk2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
